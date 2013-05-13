@@ -1,6 +1,9 @@
 *.class
+*.c
 
 # Package Files #
 *.jar
 *.war
 *.ear
+*.out
+*.o
